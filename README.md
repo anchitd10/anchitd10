@@ -1,5 +1,9 @@
 ## Hi there, I'm Anchit Das👋
 
+<div id="header" align= "center">
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=790b76113xx0k7pe5d5u13fn5brgessemmh2g6akdmxlqu3z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+</div>
+
 <!--
 **anchitd10/anchitd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ## Hi there, I'm Anchit Das👋
 
 <div id="header" align= "center">
-  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=790b76113xx0k7pe5d5u13fn5brgessemmh2g6akdmxlqu3z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+  <img src="[https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=790b76113xx0k7pe5d5u13fn5brgessemmh2g6akdmxlqu3z&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200](https://drive.google.com/file/d/1D2kXg5O6EwuFQMwgaVJhmhwJkm_MovF_/view?usp=drive_link)"/>
 </div>
 
 <!--

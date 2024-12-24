@@ -2,14 +2,10 @@
 
 ![anchit](https://github.com/user-attachments/assets/89a95a8b-af56-4909-98c0-b674a3e7e7ff)
 
+<!--
 <div id="header" align= "center">
   <img src=![anchit](https://github.com/user-attachments/assets/89a95a8b-af56-4909-98c0-b674a3e7e7ff)/>
 </div>
-
-<!--
-**anchitd10/anchitd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Game Development & Web Development**

@@ -1,7 +1,7 @@
 ## Hi there, I'm Anchit Das👋
 
 <div id="header" align= "center">
-  <img src="https://drive.google.com/uc?export=view&id=1D2kXg5O6EwuFQMwgaVJhmhwJkm_MovF_" alt="GIF of Anchit Das"/>
+  <img src=![anchit](https://github.com/user-attachments/assets/89a95a8b-af56-4909-98c0-b674a3e7e7ff)/>
 </div>
 
 <!--

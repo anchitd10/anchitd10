@@ -24,9 +24,9 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 📫 How to reach me **anchitd10@gmail.com**
+- 📫 How to reach me:  **anchitd10@gmail.com**
 
-- ⚡ Fun fact **I can be your best football buddy**
+- ⚡ Fun fact:  **I can be your best football buddy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -51,7 +51,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,androidstudio,git,blender,figma,ae,pr,photoshop,ai" alt="Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,pycharm,androidstudio,mysql,git,blender,figma,ae,pr,photoshop,ai" alt="Tools Icons" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchitd10" alt="anchitd10" /></a> </p>

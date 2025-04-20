@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,pycharm,androidstudio,mysql,git,blender,figma,ae,pr,photoshop,ai" alt="Tools Icons" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchitd10" alt="anchitd10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anchitd10&theme=onedark" alt="anchitd10" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchitd10&show_icons=true&locale=en&layout=compact" alt="anchitd10" /></p>
 

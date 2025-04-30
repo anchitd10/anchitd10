@@ -20,8 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchitd10&label=Profile%20views&color=0e75b6&style=flat" alt="anchitd10" /> </p>
 
-- 🔭 I’m currently working on **Game Development, AR/VR
-  Development & Web Development**
+- 🔭 I’m currently working on **Game Development, AR/VR Development & Web Development**
 
 - 🌱 I’m currently learning **Three.js**
 
